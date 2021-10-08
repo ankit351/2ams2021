@@ -11,15 +11,17 @@
 <body class="container">
 
     
-    <h2 class="text-center">Calcula a Comissão </h2>
+    <h2 class="text-center">Calcula Comissão </h2>
     
     <hr>
     
     <form method="GET">
         
        
-        <label for="exampleFormControlInput1">Idade</label>
+        <label for="exampleFormControlInput1">Nome</label>
+        <br>
          <label for="exampleFormControlInput1">Mudando </label>
+         <br>
         <label for="exampleFormControlInput1">Modificar</label>
         <br>
         <input class="form-control form-control-lg" type="text" name="txtnome" placeholder="Nome">
